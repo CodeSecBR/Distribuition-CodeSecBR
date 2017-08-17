@@ -1,4 +1,4 @@
-# Distribuition CodeSec 
+# Distribution CodeSec 
 
 <img src="http://i.imgur.com/5Wl9pbs.png">
 
