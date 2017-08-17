@@ -18,9 +18,13 @@
 🛠 <B> Pentest </b><br>
 🖥 <B> Programming </b><br>
 
+<img src="http://i.imgur.com/5Wl9pbs.png">
+
 # Distribution Download
 
 💽 To download official the distribution just go to the <a href="https://www.debian.org/CD/http-ftp/#stable">Debian website</a>, but you can download it through the links below, as they are in an easy mode:<br>
+
+<img src="http://i.imgur.com/GQFzr2G.png">
 
 <h2>DVD - recommended</h2>
 
@@ -87,6 +91,8 @@
 📖 To install the linux distribution, just go to the <a href="/Documentations.md">documentations</a>
 
 # Other projects
+
+<img src="http://i.imgur.com/RH5oJG8.png">
 
 <b>Sobre a TerminalRoot404</b>
 
