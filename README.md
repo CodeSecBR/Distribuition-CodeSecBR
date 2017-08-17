@@ -1,4 +1,4 @@
-# Distribuição Linux CodeSec
+# Distribution Linux CodeSec
 
 🌐 This project is about a Linux distribution made by CodeSec BR team
 
